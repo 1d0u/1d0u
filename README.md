@@ -7,13 +7,6 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=1d0u&locale=en&mode=weekly&theme=dark&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=1d0u&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&custom_title=Current%20brain%20composition:" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<div align="center">
   <img src="https://skillicons.dev/icons?i=php" height="30" alt="php logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
@@ -53,6 +46,13 @@
   <img src="https://skillicons.dev/icons?i=pr" height="30" alt="adobepremierepro logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ae" height="30" alt="adobeaftereffects logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=1d0u&locale=en&mode=weekly&theme=dark&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=1d0u&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&custom_title=Current%20brain%20composition:" height="150" alt="languages graph"  />
 </div>
 
 ###
