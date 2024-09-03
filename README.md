@@ -21,8 +21,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  />
