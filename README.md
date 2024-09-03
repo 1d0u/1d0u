@@ -1,10 +1,8 @@
 <br clear="both">
 
-<h1 align="center">Hi 👋, I'm Dogu Pekgoz</h1>
-
-<h3 align="center">A WordPress Developer with a passion for AI</h3>
-
-###
+<h1 align="center">Hi <img height="30" src="https://github.com/LoftyDroid/LoftyDroid/raw/main/wave.gif"  />, I'm Dogu Pekgoz</h1>
+<p align="center">
+ <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=17&duration=2000&pause=5000&color=22F7DF&center=true&width=435&lines=A+WordPress+Developer+with+a+passion+for+AI" alt="Typing SVG" /></a></p>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=php" height="30" alt="php logo"  />
@@ -61,9 +59,7 @@
   <img height="300" src="https://cdn.forum.snap.berkeley.edu/original/2X/7/707a2ab312150fbb6f4adb1ca994a3e5eba981dc.gif"  />
 </div>
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/1d0u/count.svg?"  />
-</div>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=1d0u&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="1d0u" /> </p>
 
 ###
 
