@@ -1,4 +1,4 @@
-![](dogu.png)
+<img src="dogu.png" width="250" height="250">
 
 ~ whoami
 > just another guy who likes to code things
