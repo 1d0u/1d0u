@@ -1,4 +1,4 @@
-<img src="dogu.png" width="200" height="200">
+<img src="dogu.png" width="150" height="150">
 
 ~ whoami
 > just another guy who likes to code things
