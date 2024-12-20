@@ -29,9 +29,9 @@
 ~ tools
 > [![VSCode](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-black.svg?logo=vsc&logoColor=white)](https://code.visualstudio.com/)
 [![Notepad++](https://img.shields.io/badge/Notepad++-black.svg?&logo=notepad%2b%2b)](https://notepad-plus-plus.org/)
+[![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-black?logo=Adobe%20Photoshop)](https://www.adobe.com/products/photoshop.html)
 [![After Effects](https://img.shields.io/badge/Adobe%20AE-black?logo=Adobe%20After%20Effects)](https://www.adobe.com/products/aftereffects.html)
 [![Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-black?logo=Adobe%20Premiere%20Pro)](https://www.adobe.com/products/premiere.html)
-[![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-black?logo=Adobe%20Photoshop)](https://www.adobe.com/products/photoshop.html)
 
 ~ contact
 > [![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://tr.linkedin.com/in/dogupekgoz)
