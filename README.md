@@ -9,6 +9,7 @@
 ~ technologies
 >[![PHP](https://img.shields.io/badge/PHP-black?logo=php)](https://www.php.net/)
 [![React](https://img.shields.io/badge/React-black?logo=react)](https://reactjs.org/)
+[![NextJS](https://img.shields.io/badge/NextJS-black?logo=nextdotjs)](https://nextjs.org/)
 [![WordPress](https://img.shields.io/badge/WordPress-black?logo=wordpress)](https://wordpress.org/)
 [![Gutenberg](https://img.shields.io/badge/Gutenberg-black?logo=Gutenberg)](https://wordpress.org/gutenberg/)
 [![WooCommerce](https://img.shields.io/badge/WooCommerce-black?logo=woocommerce&logoColor=fff)](https://woocommerce.com/)
