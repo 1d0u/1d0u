@@ -38,3 +38,5 @@
 > [![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://tr.linkedin.com/in/dogupekgoz)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:dogupekgoz@gmail.com)
 
+>![](https://komarev.com/ghpvc/?username=1d0u&color=blue&label=Total+Views)
+
