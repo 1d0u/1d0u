@@ -2,7 +2,7 @@
 > just another guy who likes to code things
 
 ~ explain dogu? 1d0u?
-> half-time indie-developer, full-time WordPress developer, all time AI enthusiast
+> half-time indie-developer, full-time NextJS & WordPress developer, all time AI enthusiast
 
 ~ technologies
 >[![PHP](https://img.shields.io/badge/PHP-black?logo=php)](https://www.php.net/)
